@@ -1,0 +1,10 @@
+﻿accepts_proposal = {
+	third_not = ACCEPTS_NEGOTIATION_THIRD_NOT
+}
+
+not_already_in_negotiation = {
+	first_not = ALREADY_IN_NEGOTIATION_FIRST
+	third_not = ALREADY_IN_NEGOTIATION_THIRD
+	first = ALREADY_IN_NEGOTIATION
+	third = ALREADY_IN_NEGOTIATION
+}
