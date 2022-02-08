@@ -1,0 +1,14 @@
+﻿on_game_start_after_lobby = {
+	on_actions = {
+		TCMA_compat
+	}
+}
+
+TCMA_compat = {
+	effect = {
+		set_global_variable = {
+			name = TCMA_is_loaded
+			value = yes
+		}
+	}
+}
